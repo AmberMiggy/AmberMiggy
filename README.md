@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Amber Miguel 👋
 
-<!--
-**AmberMiggy/AmberMiggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student passionate about learning and building cool things.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Let's Connect
+
+Feel free to reach out through any of my profile links — I'd love to connect!
+
+---
+
+*Thanks for stopping by! ⭐*
+
